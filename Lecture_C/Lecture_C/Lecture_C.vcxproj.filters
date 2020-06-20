@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01.c">
+    <ClCompile Include="printfscanf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="loop.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
