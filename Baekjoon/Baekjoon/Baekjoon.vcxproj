@@ -141,8 +141,11 @@
   <ItemGroup>
     <ClCompile Include="step10_2439.c" />
     <ClCompile Include="step11_10871.c" />
+    <ClCompile Include="step1_10952.c" />
     <ClCompile Include="step1_2739.c" />
     <ClCompile Include="step2_10950.c" />
+    <ClCompile Include="step2_10951.c" />
+    <ClCompile Include="step3_1110.c" />
     <ClCompile Include="step3_2753.c" />
     <ClCompile Include="step2_9498.c" />
     <ClCompile Include="step3_8393.c" />

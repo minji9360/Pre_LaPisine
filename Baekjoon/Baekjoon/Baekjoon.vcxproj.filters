@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\for">
       <UniqueIdentifier>{e87675b6-f539-4d29-8661-59cf6c0b0535}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\while">
+      <UniqueIdentifier>{38c30f0c-73f3-4058-b00f-0446c2677dd2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="step4_14681.c">
@@ -65,6 +68,15 @@
     </ClCompile>
     <ClCompile Include="step11_10871.c">
       <Filter>소스 파일\for</Filter>
+    </ClCompile>
+    <ClCompile Include="step1_10952.c">
+      <Filter>소스 파일\while</Filter>
+    </ClCompile>
+    <ClCompile Include="step2_10951.c">
+      <Filter>소스 파일\while</Filter>
+    </ClCompile>
+    <ClCompile Include="step3_1110.c">
+      <Filter>소스 파일\while</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
