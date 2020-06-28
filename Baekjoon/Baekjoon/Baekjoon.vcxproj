@@ -154,6 +154,7 @@
     <ClCompile Include="step3_8393.c" />
     <ClCompile Include="step4_14681.c" />
     <ClCompile Include="step4_15552.c" />
+    <ClCompile Include="step4_2523.c" />
     <ClCompile Include="step5_2741.c" />
     <ClCompile Include="step5_2884.c" />
     <ClCompile Include="step6_2742.c" />

@@ -90,5 +90,8 @@
     <ClCompile Include="step3_10817.c">
       <Filter>소스 파일\Practice_1</Filter>
     </ClCompile>
+    <ClCompile Include="step4_2523.c">
+      <Filter>소스 파일\Practice_1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
